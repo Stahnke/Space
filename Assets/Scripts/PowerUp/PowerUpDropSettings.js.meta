@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 9b380bc4d13ec2845adff34c2ddf246a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ItemPickUpSoundObject: {fileID: 100000, guid: 8933a6ad336b4d4418bb18486f981f81,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 513b139f05fd52c44a70c2b5d453008a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Meteor: {instanceID: 0}
+  - SpawningPoint: {instanceID: 0}
+  - MeteorSmallLv1: {fileID: 100000, guid: e6a0e0c5dd597e44d9f3a1c5f40206b6, type: 2}
+  - MeteorMediumLv1: {fileID: 100000, guid: eb1ce80798d186243a90210c0b4d2ab3, type: 2}
+  - MeteorLargeLv1: {fileID: 100000, guid: fb3c222496352244bb4cd6947529fc47, type: 2}
+  - MeteorExtraLargeLv1: {fileID: 100000, guid: 047607ffd9fbf844cab12d8f1fb1ee68,
+      type: 2}
+  - SpawnPoint1: {instanceID: 0}
+  - SpawnPoint2: {instanceID: 0}
+  - SpawnPoint3: {instanceID: 0}
+  - SpawnPoint4: {instanceID: 0}
+  - SpawnPoint5: {instanceID: 0}
+  - SpawnPoint6: {instanceID: 0}
+  - SpawnPoint7: {instanceID: 0}
+  - SpawnPoint8: {instanceID: 0}
+  - SpawnPoint9: {instanceID: 0}
+  - SpawnPoint10: {instanceID: 0}
+  - SpawnPoint11: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

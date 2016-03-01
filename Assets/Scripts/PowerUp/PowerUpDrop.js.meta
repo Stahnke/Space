@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 014f11497a9832747b99f07a121d94fd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Target: {instanceID: 0}
+  - FireBall: {fileID: 100008, guid: e276119d47c03a649af79efed6e13e69, type: 2}
+  - DoubleShot: {fileID: 100008, guid: 2a6ec4f2c7d348049a644e4643ddd09d, type: 2}
+  - MiniShips: {fileID: 100010, guid: 06475354012852b499716ee92ad4267b, type: 2}
+  - ItemDrop: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

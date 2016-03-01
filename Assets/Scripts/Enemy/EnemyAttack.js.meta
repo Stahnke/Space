@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 93dce1fd53bea0f4ba314fe2f6e23247
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - EnemyShootPoint: {instanceID: 0}
+  - EnemyNormalShot: {instanceID: 0}
+  - EnemyShotSound: {fileID: 8300000, guid: d2f5eb6d929256d41becf7ac6773d148, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

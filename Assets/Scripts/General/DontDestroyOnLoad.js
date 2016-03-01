@@ -1,0 +1,6 @@
+
+function Update(){
+
+	DontDestroyOnLoad(gameObject);
+
+}

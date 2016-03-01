@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Little!\Assets\Scripts\AutoType.js">
+    <Files>
+      <File FileName="..\Little!\Assets\Scripts\PC_Boot_1.js" Line="17" Column="27" />
+      <File FileName="..\Little!\Assets\Scripts\CameraFollow.cs" Line="57" Column="3" />
+      <File FileName="..\Little!\Assets\Scripts\FaderIn.js" Line="31" Column="43" />
+      <File FileName="..\Little!\Assets\Scripts\AutoType.js" Line="145" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

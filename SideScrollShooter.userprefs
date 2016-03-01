@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LEVELSpawning\SpawnEnemy.js">
+    <Files>
+      <File FileName="Assets\Scripts\CourseSelection\CourseCameraOptions.js" Line="23" Column="61" />
+      <File FileName="Assets\Scripts\CourseSelection\courseItem.js" Line="1" Column="37" />
+      <File FileName="Assets\Scripts\CourseSelection\CourseSelectArraySystem.js" Line="178" Column="121" />
+      <File FileName="Assets\Scripts\General\SongSwitch.js" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\LEVELSpawning\SpawnEnemy.js" Line="819" Column="1" />
+      <File FileName="Assets\Scripts\Title\MenuManager2.js" Line="59" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
